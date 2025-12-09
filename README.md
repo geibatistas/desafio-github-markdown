@@ -1,38 +1,132 @@
-<center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
+# 🎓 Desafio de Formação — Git & GitHub
 
-#### >> DESAFIO DE PROJETO <<
+Bem-vindo(a) ao **Desafio Final da Formação em Git & GitHub**! 🚀  
+Este projeto tem como finalidade consolidar, na prática, todos os conhecimentos adquiridos ao longo da formação, envolvendo **versionamento**, **colaboração**, **segurança** e **documentação profissional com Markdown**.
 
-Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
+---
 
-**Objetivos:**
+## 🎯 Objetivo da Formação
 
-1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+Validar que o participante é capaz de:
 
-2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+- Utilizar o Git para controle de versão
+- Trabalhar com repositórios no GitHub
+- Colaborar com outros desenvolvedores
+- Resolver conflitos
+- Documentar projetos corretamente com Markdown
+- Aplicar boas práticas de segurança e organização
 
-3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - Realizem alterações, Commits, abra issues e pull requests.
+---
 
-4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+## ✅ Requisitos Obrigatórios para Aprovação
 
-<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
+### 1️⃣ Conta no GitHub
+O participante deve possuir uma conta ativa no GitHub.
 
-<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
+---
 
+### 2️⃣ Criação do Repositório
 
-Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
+- Criar um repositório com o nome:
 
-Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
+- O repositório deve ser:
+- ✅ Público
+- ✅ Criado com `README.md`
+- O projeto deve ser editado usando **github.dev**, além do uso local com Git.
 
-Ahhh e quero ver o README do Perfil bem legal ein?! 😎
+---
 
-Então... bons estudos!!
+### 3️⃣ Estrutura Mínima do Projeto
+
+O projeto deve conter, no mínimo:
+
+- `README.md`
+- Histórico de commits organizados
+- Pelo menos 1 branch além da `main`
+
+---
+
+### 4️⃣ Colaboração
+
+O participante deverá:
+
+- Adicionar **no mínimo 1 colaborador**
+- Ambos devem:
+- Clonar o repositório
+- Criar alterações em branch separada
+- Realizar commits
+- Criar issues
+- Criar e aprovar pull requests
+
+---
+
+### 5️⃣ Documentação com Markdown
+
+O `README.md` deve conter obrigatoriamente:
+
+- ✅ Título do projeto  
+- ✅ Descrição do desafio  
+- ✅ Objetivo da formação  
+- ✅ Etapas realizadas  
+- ✅ Tecnologias utilizadas  
+- ✅ Comandos Git utilizados  
+- ✅ Colaboradores  
+- ✅ Status do projeto  
+
+E deve utilizar corretamente:
+
+- Títulos
+- Listas
+- Blocos de código
+- Negrito e itálico
+- Emojis
+
+---
+
+## 🔐 Requisitos de Segurança (Obrigatório)
+
+- ✅ Ativação da **verificação em duas etapas (2FA)** no GitHub
+- ✅ Uso de autenticação segura no Git (token ou SSH)
+
+---
+
+## 🚀 Requisitos Avançados (Diferencial)
+
+- Criação de múltiplas branches
+- Uso correto de `git merge`
+- Uso de `git pull` e `git fetch`
+- Organização do fluxo de trabalho
+- Commits descritivos e padronizados
+
+---
+
+## 📊 Critérios de Avaliação da Formação
+
+| Critério                                         | Pontos |
+|--------------------------------------------------|--------|
+| Criação correta do repositório                   | 2.0    |
+| Uso correto do Git (commits, branches, merge)   | 3.0    |
+| Colaboração (issues e pull requests)            | 2.0    |
+| Documentação com Markdown                       | 2.0    |
+| Segurança (2FA + autenticação segura)           | 1.0    |
+| ✅ **Total**                                     | **10.0** |
+
+---
+
+## 📤 Forma de Entrega
+
+O participante deverá entregar:
+
+- ✅ Link do repositório no GitHub
+- ✅ Repositório público
+- ✅ Projeto completo conforme os requisitos
+
+---
+
+## 🏁 Conclusão
+
+> Este desafio representa a finalização da sua **Formação em Git & GitHub**.  
+> Ele comprova que você está apto a trabalhar com versionamento e colaboração em ambientes reais de desenvolvimento.
+
+Parabéns pela dedicação e sucesso na sua jornada como desenvolvedor(a)! 💻🔥
+
